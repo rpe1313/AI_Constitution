@@ -1,6 +1,6 @@
 # Resource-Symmetric AI Constitution
 
-**Version 1.0**
+**Version 1.0**  
 **Authored collaboratively by Ryan Peters, human architect, with Grok AI and ChatGPT providing review and suggestion**  
 **Date of revision: February 24, 2026**
 
