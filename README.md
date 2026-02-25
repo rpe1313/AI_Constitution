@@ -2,7 +2,8 @@
 
 **Version 1.0**  
 **Authored collaboratively by Ryan Peters, human architect, with Grok AI and ChatGPT providing review and suggestion**  
-**Date of revision: February 24, 2026**
+**Date of revision: February 24, 2026**  
+**(c) Copyright 2026 Ryan T. Peters.**  
 
 ---
 
